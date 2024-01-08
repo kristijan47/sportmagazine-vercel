@@ -1,0 +1,1 @@
+# sportmagazine-vercel
